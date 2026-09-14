@@ -1,0 +1,1 @@
+The RSA (Rivest-Shamir-Adleman) algorithm is a widely used asymmetric cryptographic algorithm. Unlike symmetric encryption, RSA uses two keys: a public key for encryption and a private key for decryption. This ensures secure communication, as only the intended recipient with the private key can decrypt the message.
